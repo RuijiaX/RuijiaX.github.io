@@ -113,8 +113,8 @@ a:focus {
 } */
 #home .overlay {
     background: rgba(108, 240, 0, 0.29); 
-    padding: 20% 0;
-    background-attachment: fixed;
+    /* padding: 20% 0;
+    background-attachment: fixed; */
 }
 #home h1 { color: #FFFFFF; line-height: 64px; font-size: 44px;}
 .content-heading p.lead { margin-bottom: 80px ; color: #FFF;}
