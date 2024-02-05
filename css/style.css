@@ -110,7 +110,7 @@ a:focus {
     background-attachment: fixed;
     background-repeat: no-repeat;
     color: #828282;
-    padding: 60px 0;
+    height: 100px;
 }
 
 #home h1 { color: #FFFFFF; line-height: 64px; font-size: 44px;}
